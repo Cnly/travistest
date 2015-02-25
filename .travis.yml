@@ -10,4 +10,4 @@ deploy:
     secure: PTNsMnTOQ1S9YV+Vos0WNIEPszPW3jlzBM2zvl2a5pwtlQV+6FA3AwOh0/GiUdApkrGRXIeaXmfwc8aaKl07EmOgpWXEw6Ta5DXNmeGVgCdisHs9Ul/L5SUHbwMBqRKd7SGuGyuFPZPrakp9J7WeL8AqM5sB3yf4MHGjk4wfDkk=
   file: README.md
   on:
-    repo: Cnly/travistest
+    tags: true
